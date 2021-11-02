@@ -2,7 +2,7 @@
 
 This is a React web application that use my own API to retrieve random greeting stored in API.
 
-![screenshot](https://github.com/uwadonat/top_sellers/blob/feature/frontEnd/images/Screenshot.png)
+![screenshot](https://github.com/uwadonat/hello_react_front_end/blob/feature/frontEnd/images/Screenshot.png)
 
 Additional description about the project and its features.
 
